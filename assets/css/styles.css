@@ -1,0 +1,15 @@
+*{
+    background-color: white;
+    margin: 100;
+    padding: 100;
+}
+
+.titulo{
+    background-color:red;
+    max-width: 50%;
+    margin: 0 auto;
+    margin-top: 10px;
+    text-align: center;
+    color: white;
+    border-radius: .3rem;
+}
